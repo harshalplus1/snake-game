@@ -3,7 +3,7 @@ import subprocess
 
 
 def main():
-    st.title("NOKIA - Snake Game")
+    st.title("Snake Game")
     st.markdown("<br><br>", unsafe_allow_html=True)
     st.markdown(
         "<h4> <br> Click the button to start the game:</h4>",
